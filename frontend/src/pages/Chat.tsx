@@ -163,7 +163,7 @@ export default function Chat() {
             fontWeight: "600",
           }}
         >
-          Model - GPT 3.5 Turbo
+          Model - DeepSeek: R1
         </Typography>
         <Box
           sx={{
